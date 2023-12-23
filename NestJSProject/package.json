@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@nestjs/cli": "^10.2.1"
+  },
+  "name": "nestjsproject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "nest":"nest new appNest",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

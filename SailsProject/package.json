@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "sails": "^1.5.8"
+  },
+  "name": "boilerplatenodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "sails": "sails new app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
